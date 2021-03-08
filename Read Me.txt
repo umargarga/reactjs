@@ -1,0 +1,3 @@
+1. Created new repo
+2. Add react developer tools to browser
+3. npx create-react-app react-task-tracker
